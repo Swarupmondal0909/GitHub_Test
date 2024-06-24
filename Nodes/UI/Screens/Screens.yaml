@@ -12,7 +12,6 @@ Children:
     - Name: Active
       Type: BaseDataVariableType
       DataType: Boolean
-      Value: false
     - Name: Width
       Type: BaseVariableType
       DataType: Size
