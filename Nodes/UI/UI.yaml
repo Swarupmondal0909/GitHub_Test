@@ -96,15 +96,12 @@ Children:
       - Name: Color
         Type: BaseDataVariableType
         DataType: Color
-        Value: "#00000000"
       - Name: BorderColor
         Type: BaseDataVariableType
         DataType: Color
-        Value: "#00000000"
       - Name: BorderWidth
         Type: BaseDataVariableType
         DataType: Size
-        Value: 0.0
   - Name: InputBoxStyles
     Type: BaseObjectType
     Children:
@@ -182,7 +179,6 @@ Children:
   - Name: EnableVirtualKeyboard
     Type: BaseDataVariableType
     DataType: Boolean
-    Value: false
   - Name: StartWindow
     Type: NodePointer
     DataType: NodeId
@@ -229,7 +225,6 @@ Children:
   - Name: Caption
     Type: BaseDataVariableType
     DataType: String
-    Value: ""
     Children:
     - Name: DynamicLink
       Type: DynamicLink
